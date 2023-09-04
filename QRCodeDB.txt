@@ -1,0 +1,12 @@
+-- Cria o banco de dados QrCodeDB
+CREATE DATABASE QrCodeDB;
+
+-- Seleciona o banco de dados QrCodeDB
+USE QrCodeDB;
+
+-- Cria a tabela qr_codes
+CREATE TABLE qr_codes (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    dados TEXT,
+    nome_arquivo VARCHAR(255)
+);
