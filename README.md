@@ -32,7 +32,7 @@ Kevin Souza | kevin.lucas284sz@gmail.com
 
 ## Licença
 
-Este projeto está licenciado sob os termos da Licença MIT - consulte o arquivo [LICENSE](LICENSE) para obter mais detalhes.
+Este projeto está licenciado sob os termos da Licença MIT - consulte o arquivo [https://github.com/MrKevin284/Simple_QR_Code_Generator/blob/main/LICENSE](LICENSE) para obter mais detalhes.
 
 ---
 
